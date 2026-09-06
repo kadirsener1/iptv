@@ -1,22 +1,275 @@
 [
   {
-    "name": "usespn2",
-    "page_url": "https://tvnow247.top/watch/espn-2/"
+    "name": "trtv8buçuk",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV8.5&code=tr&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "TR",
+    "reason": "Geçerli stream URL bulunamadı"
   },
   {
-    "name": "usnbatv",
-    "page_url": "https://tvnow247.top/watch/nba-tv/"
+    "name": "usespnu",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPNU&code=us&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "US",
+    "reason": "Geçerli stream URL bulunamadı"
   },
   {
-    "name": "ukskysportsf1",
-    "page_url": "https://tvnow247.top/watch/sky-sports-f1/"
+    "name": "usespnews",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPNews&code=us&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "US",
+    "reason": "Geçerli stream URL bulunamadı"
   },
   {
-    "name": "uktntsports1",
-    "page_url": "https://tvnow247.top/watch/tnt-sports-1-uk/"
+    "name": "uswillowtv",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20TV&code=us&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "US",
+    "reason": "Geçerli stream URL bulunamadı"
   },
   {
-    "name": "uktntsports2",
-    "page_url": "https://tvnow247.top/watch/tnt-sports-2-uk/"
+    "name": "freurosport2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FR&code=fr&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "FR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "freurosport1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FR&code=fr&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "FR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "esdazn1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20ES&code=es&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "ES",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "esdazn2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20ES&code=es&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "ES",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "dedazn1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20DE&code=de&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "DE",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "deskysportf1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20DE&code=de&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "DE",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "dedazn2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20DE&code=de&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "DE",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysportuno",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysportcalcio",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Calcio&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysportfootball",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Football&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysportf1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20F1%20IT&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysportmotogp",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20MotoGP&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itdazn1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20IT&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "itskysport24",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%2024&code=it&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "IT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "ptdazn1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20PT&code=pt&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "PT",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "nlziggosportselect",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20Select&code=nl&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "NL",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "nlziggosportvoetbal",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%20Voetbal&code=nl&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "NL",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "nlespn1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20NL&code=nl&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "NL",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "nlespn2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20NL&code=nl&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "NL",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aufoxleague",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20League&code=au&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AU",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aufoxfooty",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Footy&code=au&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AU",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aufoxcricket",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Cricket&code=au&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AU",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arbeinsports1premium",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%201%20Premium&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arbeinsports2premium",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%202%20Premium&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arbeinsports3premium",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%203%20Premium&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arbeinsportsenglish1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20English%201&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arssc1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%201&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arssc2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%202&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arssc3",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%203&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arssc4",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%204&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arssc5",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%205&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "arsscextra1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=SSC%20Extra%201&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aralkass1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Alkass%201&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aralkass2",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Alkass%202&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
+  },
+  {
+    "name": "aradextrap1",
+    "player_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=AD%20Sports%20Premium%201&code=ar&user=cdnlivetv&plan=free",
+    "image": "",
+    "group": "AR",
+    "reason": "Geçerli stream URL bulunamadı"
   }
 ]
