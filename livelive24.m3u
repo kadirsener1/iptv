@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat DE" tvg-logo="" group-title="DE",3sat DE
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
-#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="" group-title="DE",ZDF HD
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="ARD Das Erste" tvg-name="ARD Das Erste" tvg-logo="" group-title="DE",ARD Das Erste
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="" group-title="DE",ZDF HD
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="" group-title="DE",RTL
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="" group-title="DE",ProSieben
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="" group-title="DE-SPORT",Sky Sport News
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DE-SPORT",DAZN 1 DE
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
 #EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1" tvg-logo="" group-title="DE-SPORT",Sky Sport Bundesliga 1
-https://pull.niur.live/live/stream-602019_lsd.m3u8?txSecret=0d683105a11046fa0d89cf20cffe4bcb&txTime=6a9dd184
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=12a67f2418b743cdc9b87ce310c05fbc&txTime=6a9e18fd
