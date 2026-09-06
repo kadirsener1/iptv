@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARD Das Erste" tvg-name="ARD Das Erste" tvg-logo="" group-title="DE",ARD Das Erste
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
-#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="" group-title="DE",ZDF HD
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
 #EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat DE" tvg-logo="" group-title="DE",3sat DE
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="" group-title="DE",ZDF HD
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
+#EXTINF:-1 tvg-id="ARD Das Erste" tvg-name="ARD Das Erste" tvg-logo="" group-title="DE",ARD Das Erste
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="" group-title="DE",RTL
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
-#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="" group-title="DE",ProSieben
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
 #EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News" tvg-logo="" group-title="DE-SPORT",Sky Sport News
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
-#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DE-SPORT",DAZN 1 DE
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="" group-title="DE",ProSieben
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
 #EXTINF:-1 tvg-id="Sky Sport Bundesliga 1" tvg-name="Sky Sport Bundesliga 1" tvg-logo="" group-title="DE-SPORT",Sky Sport Bundesliga 1
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788641402-0-0-536d1a10b420fe4fe6371396e69d28bc
+https://pulltx.cqsycw.com/live/sd-6MvZ6BAjMXGuLCB7yY.m3u8?txSecret=fcf5de9e08f0267cd4da942be4c3aee3&txTime=6AA20A3A
+#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-name="DAZN 1 DE" tvg-logo="" group-title="DE-SPORT",DAZN 1 DE
+https://pulltx.cqsycw.com/live/sd-6MxipEkMou5unraepN.m3u8?txSecret=a187963b7eefa185f80245df5a561b0e&txTime=6AA20A3A
